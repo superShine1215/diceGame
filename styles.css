@@ -33,13 +33,15 @@ img {
 
 button {
   font-family: 'Lobster';
-  padding: 10px 100px;
+  padding: 10px 0;
+  text-align: center;
   cursor: pointer;
   font-size: 2rem;
   color: #4ECCA3;
   background-color: #232931;
   border-radius: 12px;
   margin-top: 30px;
+  width: 65%;
 }
 
 footer {
@@ -56,5 +58,6 @@ footer {
   }
   button {
     width: 75%;
+    text-align: center;
   }
 }
